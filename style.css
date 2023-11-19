@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 50px;
+}
+
+.dashboard {
+  max-width: 400px;
+  margin: 0 auto;
+}
+input,
+button {
+  margin-bottom: 10px;
+}
+
+label {
+  margin-left: 20px;
+}
+
+button {
+  margin-left: 80px;
+}
